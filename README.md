@@ -12,18 +12,6 @@ Atualmente estou estudando programação, versionamento de código e criação d
 # 📊 Estatísticas do GitHub
 
 <div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giovanni-SantosC&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Giovanni-SantosC&theme=github_dark"/>
-
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovanni-SantosC&theme=github_dark"/>
-
-</div>
 🌐 Redes Sociais
 <p> <a href="https://github.com/agdaoliveira27"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/> </a> </p>
 <p>
