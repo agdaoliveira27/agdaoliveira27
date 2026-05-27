@@ -1,4 +1,4 @@
-# 👨‍💻 Sobre Mim
+# 👩🏾‍💻 Sobre Mim
 
 Olá! Meu nome é Agda Oliveira 🧚🏾
 Sou apaixonada por tecnologia, design e desenvolvimento.
